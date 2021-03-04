@@ -42,6 +42,6 @@
   }
 
   .secondary-content li {
-      color:#39a6b2;
+      color:var(--tertiary-color);
       margin: 10px 0px 10px 0px;
   }
